@@ -1,0 +1,8 @@
+
+.icon-video:before { content: '\e800'; } /* '' */
+.icon-user:before { content: '\e801'; } /* '' */
+.icon-key:before { content: '\e802'; } /* '' */
+.icon-star:before { content: '\e803'; } /* '' */
+.icon-reply:before { content: '\e804'; } /* '' */
+.icon-logout:before { content: '\f02d'; } /* '' */
+.icon-upload:before { content: '\f02f'; } /* '' */
